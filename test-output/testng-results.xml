@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T15:42:59 EET" name="Default suite" finished-at="2023-05-05T15:43:12 EET" duration-ms="12434">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T15:42:59 EET" name="Default test" finished-at="2023-05-05T15:43:12 EET" duration-ms="12434">
+      <class name="TestCases">
+        <test-method is-config="true" signature="before()[pri:0, instance:TestCases@d8948cd]" started-at="2023-05-05T15:42:59 EET" name="before" finished-at="2023-05-05T15:43:01 EET" duration-ms="1592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="test2()[pri:0, instance:TestCases@d8948cd]" started-at="2023-05-05T15:43:01 EET" name="test2" finished-at="2023-05-05T15:43:05 EET" duration-ms="4227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test5()[pri:0, instance:TestCases@d8948cd]" started-at="2023-05-05T15:43:05 EET" name="test5" finished-at="2023-05-05T15:43:12 EET" duration-ms="6512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:TestCases@d8948cd]" started-at="2023-05-05T15:43:12 EET" name="after" finished-at="2023-05-05T15:43:12 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
