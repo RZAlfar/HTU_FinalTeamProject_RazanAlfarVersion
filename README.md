@@ -46,7 +46,7 @@ This test verifies the checkout process on the Pet Store website. It fills the c
 This test verifies the contact form submission on the Pet Store website. It fills the contact form with dummy information and submits it. It then checks if the success message is displayed.
 
 ## Team Members
-- **Razan ALfar** [LinkedIn](https://www.linkedin.com/in/razan-alfar/)
+- **Razan ALfar** [LinkedIn](https://www.linkedin.com/in/razan-alfar/) [Github](https://github.com/RZAlfar) 
 - **Neveen Jarrar**  [linkedin](https://www.linkedin.com/in/neveen-jarrar-71b2a31b1/)
 - **Hanan Abu-Ra'd** [linkedin](https://www.linkedin.com/in/hanan-abu-ra-d/)
 - **Ahmad Abu Yahia**  [linkedin](https://www.linkedin.com/in/ahmad-abu-yahia/) [Github](https://github.com/software-ace) 
