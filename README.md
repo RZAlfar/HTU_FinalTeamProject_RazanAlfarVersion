@@ -11,7 +11,7 @@
     <br/>
     <br/>
     <a href="PetPerefct Documentaition (HTU).pdf"><strong>Explore the docs »</strong></a>
-    <a href="HTU-Final ProjPresnt.pdf"><strong>Explore the Presentation slides»</strong></a>
+    <a href="https://www.canva.com/design/DAFlTsQUsXE/XIq50UyFQdXUfyescFFC-Q/edit?utm_content=DAFlTsQUsXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><strong>Explore the Presentation slides»</strong></a>
     <br/>
     <br/>
   </p>
