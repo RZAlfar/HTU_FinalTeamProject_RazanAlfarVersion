@@ -10,7 +10,8 @@
    Final Project - for the Quality Assurance Training Programm At the Al Hussein Technical University: HTU 
     <br/>
     <br/>
-    <a href="https://github.com//"><strong>Explore the docs »</strong></a>
+    <a href="PetPerefct Documentaition (HTU).pdf"><strong>Explore the docs »</strong></a>
+    <a href="HTU-Final ProjPresnt.pdf"><strong>Explore the Presentation slides»</strong></a>
     <br/>
     <br/>
   </p>
